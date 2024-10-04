@@ -10,7 +10,7 @@ export default function About() {
           Hi, I&apos;m <strong>Connor Neale</strong>
         </h2>
         <h3 className="sectionSubtitle sectionSubtitleAbout">
-          Aspiring Web
+          Aspiring Web Dev
         </h3>
         <img
           src={connorPhoto}

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "gigON",
+    "imgSrc": "gigON.png",
+    "description": "An API-powered concert search tool powered by Spotify.",
+    "skills": ["Bulma", "Javascript", "HTML", "Third Party APIs"],
+    "demo": "https://cneale92.github.io/gigON/",
+    "source": "https://github.com/Cneale92/gigON"
+  },
+  {
+    "title": "SQL Employee Tracker",
+    "imgSrc": "sql-employee-tracker.PNG",
+    "description": "Easily store and update important employee data with this user-friendly SQL tracker.",
+    "skills": ["PostgreSQL", "Node.js", "Inquirer"],
+    "demo": "https://ooo.mmhmm.app/watch/z_gx0yE3fKkoTlNiU66y2C",
+    "source": "https://github.com/Cneale92/connor-neale-SQL-Employee-Tracker"
+  },
+  {
+    "title": "E-Commerce Back End",
+    "imgSrc": "e-commerce-back-end.PNG",
+    "description": "Manage data in a complex database spread throughout several relational tables.",
+    "skills": ["PostgreSQL", "Express.js", "Sequelize", "Insomnia"],
+    "demo": "https://ooo.mmhmm.app/watch/z_SFh11PYa7pHq1IwFlMv2",
+    "source": "https://github.com/Cneale92/connor-neale-E-Commerce-Back-End"
+  },
+  {
+    "title": "FoodBook",
+    "imgSrc": "foodbook.PNG",
+    "description": "A social media platform dedicated to users sharing their experiences at restaurants and diners around the country.",
+    "skills": ["Node.js", "Express.js", "Axios", "Sequelize"],
+    "demo": "https://foodbook-pyfq.onrender.com/",
+    "source": "https://github.com/davidevett/Project-2"
+  },
+
+  {
+    "title": "Social Network API",
+    "imgSrc": "social-network-api.PNG",
+    "description": "Engage in discussions and connect with friends through this social network API back-end platform.",
+    "skills": ["Express.js", "Mongoose", "MongoDB", "Insomnia"],
+    "demo": "https://drive.google.com/file/d/1NMzia4Aty_-QH4ALhd_eCviCX3hvMrnJ/view?usp=sharing",
+    "source": "https://github.com/Cneale92/connor-neale-social-network-api"
+  },
+  {
+    "title": "SVG Logo Maker",
+    "imgSrc": "svg-logo-maker.PNG",
+    "description": "This command line application allows users to generate basic shape logos.",
+    "skills": ["Node.js", "Inquirer", "Jest"],
+    "demo": "https://ooo.mmhmm.app/z_Ll7rIZwWxxPwOujQgCEq",
+    "source": "https://github.com/Cneale92/connor-neale-SVG-logo-maker"
+  }
+]

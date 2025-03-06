@@ -17,7 +17,7 @@ export default function Footer() {
         <li className="social-list__item">
           <a
             className="social-list__link"
-            href="https://www.linkedin.com/in/connor-neale-bab081179?trk=people-guest_people_search-card"
+            href="https://www.linkedin.com/in/connor-neale-bab081179"
             target="_blank"
             rel="noreferrer"
           >

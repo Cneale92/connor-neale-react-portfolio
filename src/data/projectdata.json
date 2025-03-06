@@ -41,11 +41,11 @@
     "source": "https://github.com/Cneale92/connor-neale-social-network-api"
   },
   {
-    "title": "SVG Logo Maker",
-    "imgSrc": "svg-logo-maker.PNG",
-    "description": "This command line application allows users to generate basic shape logos.",
-    "skills": ["Node.js", "Inquirer", "Jest"],
-    "demo": "https://ooo.mmhmm.app/z_Ll7rIZwWxxPwOujQgCEq",
-    "source": "https://github.com/Cneale92/connor-neale-SVG-logo-maker"
+    "title": "Wizard's Apprentice",
+    "imgSrc": "wizard's-apprentice.png",
+    "description": "This is a top down RPG developed with the MERN Stack.",
+    "skills": ["Node.js", "Express.js", "MongoDB", "React", "Phaser"],
+    "demo": "",
+    "source": "https://wizard-s-apprentice.onrender.com/"
   }
 ]

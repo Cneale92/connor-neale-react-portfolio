@@ -44,7 +44,7 @@
     "title": "Wizard's Apprentice",
     "imgSrc": "wizard's-apprentice.png",
     "description": "This is a top down RPG developed with the MERN Stack.",
-    "skills": ["Node.js", "Express.js", "MongoDB", "React", "Phaser"],
+    "skills": ["Node.js", "Express.js", "MongoDB", "React", "Phaser.js"],
     "demo": "",
     "source": "https://wizard-s-apprentice.onrender.com/"
   }
